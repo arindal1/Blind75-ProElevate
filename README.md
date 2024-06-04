@@ -34,10 +34,10 @@ This [Blind75](https://www.proelevate.in/dsa-practice/leetcode-blind-75) DSA she
 
 | Problem Name                    | Difficulty | Source                                                                                      | Solution |
 |:-------------------------------------|:------------:|:----------------------------------------------------------------------------------------------:|:----------:|
-| Climbing Stairs                 | Easy       | [LINK 🔗](https://leetcode.com/problems/climbing-stairs/)                                      | ⛔        |
-| Coin Change                     | Medium     | [LINK 🔗](https://leetcode.com/problems/coin-change/)                                          | ⛔        |
-| Longest Increasing Subsequence  | Medium     | [LINK 🔗](https://leetcode.com/problems/longest-increasing-subsequence/description/)           | ⛔        |
-| Longest Common Subsequence      | Medium     | [LINK 🔗](https://leetcode.com/problems/longest-common-subsequence/)                           | ⛔        |
+| Climbing Stairs                 | Easy       | [LINK 🔗](https://leetcode.com/problems/climbing-stairs/)                                      | [✅](https://github.com/arindal1/Blind75-ProElevate/blob/main/3%20-%20dynamic%20programming/1.ClimbingStairs.cpp)        |
+| Coin Change                     | Medium     | [LINK 🔗](https://leetcode.com/problems/coin-change/)                                          | [✅](https://github.com/arindal1/Blind75-ProElevate/blob/main/3%20-%20dynamic%20programming/2.CoinChange.cpp)        |
+| Longest Increasing Subsequence  | Medium     | [LINK 🔗](https://leetcode.com/problems/longest-increasing-subsequence/description/)           | [✅](https://github.com/arindal1/Blind75-ProElevate/blob/main/3%20-%20dynamic%20programming/3.LongestIncreasingSubsequence.cpp)       |
+| Longest Common Subsequence      | Medium     | [LINK 🔗](https://leetcode.com/problems/longest-common-subsequence/)                           | [✅](https://github.com/arindal1/Blind75-ProElevate/blob/main/3%20-%20dynamic%20programming/4.LongestCommonSubsequence.cpp)        |
 | Word Break                      | Medium     | [LINK 🔗](https://leetcode.com/problems/word-break/)                                           | [✅](https://github.com/arindal1/Blind75-ProElevate/blob/main/3%20-%20dynamic%20programming/5.WordBreak.cpp)         |
 | Combination Sum                 | Medium     | [LINK 🔗](https://leetcode.com/problems/combination-sum-iii/description/)                      | [✅](https://github.com/arindal1/Blind75-ProElevate/blob/main/3%20-%20dynamic%20programming/6.CombinationalSum.cpp)         |
 | House Robber                    | Medium     | [LINK 🔗](https://leetcode.com/problems/house-robber/description/)                             | [✅](https://github.com/arindal1/Blind75-ProElevate/blob/main/3%20-%20dynamic%20programming/7.HouseRobber.cpp)         |
